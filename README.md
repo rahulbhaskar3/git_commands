@@ -41,11 +41,11 @@ git status (all files should be in green, if not then add using below command)
 
 # Adding remote repository
 
-git remote add origin https://github.com/sudheerpal/Git_Commands.git (adding for first time)
+git remote add origin https://github.com/rahulbhaskar3/Git_Commands.git (adding for first time)
 
 git remote get-url origin (checking current remote URL)
 
-git remote set-url origin https://github.com/sudheerpal/Git_Commands.git (to set/change git remote to different URL)
+git remote set-url origin https://github.com/rahulbhaskar3/Git_Commands.git (to set/change git remote to different URL)
 
 # Push
 
